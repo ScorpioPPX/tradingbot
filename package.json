@@ -1,0 +1,22 @@
+{
+  "name": "tradingbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScorpioPPX/tradingbot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScorpioPPX/tradingbot/issues"
+  },
+  "homepage": "https://github.com/ScorpioPPX/tradingbot#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
